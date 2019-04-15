@@ -1,3 +1,5 @@
+#include "Vector3D.h"
+
 DWORD dwBase = 0;
 
 class cEntity
