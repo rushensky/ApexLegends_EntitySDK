@@ -1,3 +1,5 @@
+#pragma once
+
 #include "Vector3D.h"
 
 DWORD dwBase = 0;
